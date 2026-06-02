@@ -41,3 +41,6 @@ TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
     python agent.py
 License
 This project is licensed under the MIT License.
+Connect With Me
+**LinkedIn:https://www.linkedin.com/in/omar-faruk-b819b1280/
+**GitHub:https://github.com/omar-dev205
